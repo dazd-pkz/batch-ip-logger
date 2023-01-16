@@ -1,8 +1,36 @@
-# Batch IP Logger
-Batch IP Logger is a Soft to get the IP Address of someone.
+-----
 
-NEEDS : 
-1) Right Click on iplog.bat
-2) Select Modify
-3) Replace [WEBHOOK HERE WITHOUT BRACKETS] to your discord webhook (ex: https://discord.com/api/webhooks/.../.../)
-4) Save the file and you can send it TO YOURSELF BECAUSE ITS ILLEGAL LGMAODAZDDJZQDBZQ54DB5Q4G8ZQ7NF65Z
+<p align="center">
+<img src="https://user-images.githubusercontent.com/87366355/212617660-a4280130-172e-427c-996d-53e6741fc9e0.png", width="500", height="500">
+</p>
+
+
+-----
+
+### <p align="center">📌 BATCH IP LOGGER 📌</p>
+
+<br><br>
+<p align="center">
+<strong>
+Batch IP Logger is a script that can be implemented in any form of Batch Code, it is used to "grab" the IP and send it on Discord via Webhook.
+<br><br><br>
+</strong>
+</p>
+<br>
+
+-----
+
+### <p align="center">⭐ Features ⭐</p>
+
+<br><br>
+<strong>+ Fast</strong>
+<br>
+<strong>+ Hugely and simply customizable</strong>
+<br>
+
+<p align="right">
+<img src="https://user-images.githubusercontent.com/87366355/212617660-a4280130-172e-427c-996d-53e6741fc9e0.png", width="250", height="250">
+
+-----
+
+### <p align="center">README Template by github.com/billythegoat356 ❤️</p>
